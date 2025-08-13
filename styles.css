@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+body {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+
+form {
+    background: white;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    max-width: 400px;
+ }
+
+label {
+    font-weight: bold;
+}
